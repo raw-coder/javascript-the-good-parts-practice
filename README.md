@@ -1,6 +1,6 @@
 # Javascript The good parts - 더글라스 크락포드(저) 샘플 코드 연습 프로젝트
 
-목차
+### Contents
 
 | Chapter | Contents |
 | --- | --- |
