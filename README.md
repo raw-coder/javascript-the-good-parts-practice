@@ -14,7 +14,7 @@
 | 8 | Method |
 | 9 | Style |
 | 10 | Good Parts |
-| A | Awful Parts |
+| A | Awful Parts : Awful but have to use |
 | B | Bad Parts |
 | C | JSLint |
 | D | Diagram |
